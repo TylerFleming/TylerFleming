@@ -1,7 +1,7 @@
 ### I'm Tyler (he/him) 👋
 - Based out of my living room in Chicago 
 - Currently learning React
-- Ask me about when pro wrestling was good, battle rap or IE11 stories
+- Ask me about when pro wrestling was good 🤼‍♂️, battle rap 🎤or IE11 stories 😭
 <!--
 **TylerFleming/TylerFleming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
