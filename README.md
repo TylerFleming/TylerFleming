@@ -1,8 +1,4 @@
 ### I'm Tyler (he/him) 👋
-- Based out of my living room in Chicago 
-- Currently building stuff in React ⚛️ 
-- Reading a chapter of YDKJS 📖 a day keeps the bugs 🐜 away uwu 
-- Ask me about when pro wrestling was good 🤼‍♂️, battle rap 🎤 or IE11 / Safari stories 😭
 <!--
 **TylerFleming/TylerFleming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
